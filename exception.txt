@@ -1,0 +1,6 @@
+System.Collections.ListDictionaryInternal
+Error : Невірна кованда. Спробуйте Знову.
+
+System.Collections.ListDictionaryInternal
+Неіснуючий індекс. Спробуйте Знову.
+
